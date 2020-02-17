@@ -1,4 +1,3 @@
-//schema per db
 const mongoose = require("mongoose");
 
 const UserSchema = new mongoose.Schema({
